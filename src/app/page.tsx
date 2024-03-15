@@ -17,12 +17,12 @@ const Page = () => {
         >
           Ejercicio 1
         </Link>
-        {/* <Link
+        <Link
           href="/ejercicio2"
-          className="text-blue-500 text-7xl font-extrabold hover:underline"
+          className="text-blue-500  text-center text-7xl font-extrabold hover:underline"
         >
           Ejercicio 2
-        </Link> */}
+        </Link>
       </div>
     </div>
   );
