@@ -23,6 +23,8 @@ const PromedioNumeros: React.FC = () => {
   };
 
   return (
+
+    // Aquí estamos renderizando la informacion para que se cargue en el front.
     <div
       style={{ backgroundImage: "url('assets/promedio.jpeg')" }}
       className="text-center pt-10 h-screen bg-cover bg-center"
